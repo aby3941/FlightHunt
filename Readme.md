@@ -1,0 +1,2 @@
+1) Add all the files in the resources folder to the build path for the project
+2) Add the chrome driver file path to line number 142 flightTracker\src\main\HtmlParser.java the driver is provided in the zip
